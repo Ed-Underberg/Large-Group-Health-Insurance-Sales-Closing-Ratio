@@ -148,7 +148,7 @@ This suggests the opportunity may not be simply generating more sales activity, 
 
 Relative pricing was retained as a secondary factor.
 
-In 2026, opportunities were grouped by Wellmark's rate differential relative to competitors:
+In 2026, opportunities were grouped by company's rate differential relative to competitors:
 
 | Competitive Rate Differential | Close Rate |
 |---|---:|
@@ -191,7 +191,7 @@ The objective should not simply be increasing total sales activity. The interven
 
 ### Secondary Recommendation
 
-Continue monitoring relative pricing, particularly when Wellmark's rate increase exceeds competitors by more than approximately three percentage points.
+Continue monitoring relative pricing, particularly when company's rate increase exceeds competitors by more than approximately three percentage points.
 
 ### Validation
 
