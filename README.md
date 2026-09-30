@@ -54,7 +54,7 @@ The synthetic data incorporates business rules covering areas such as:
 - Competitive rate changes
 - Opportunity characteristics
 
-No confidential or proprietary Wellmark data was used.
+No confidential or proprietary data was used and all scenarios are fictional for purposes of the exercise.
 
 ---
 
