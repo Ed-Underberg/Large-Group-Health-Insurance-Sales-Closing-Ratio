@@ -1,0 +1,25 @@
+﻿Field,Definition / Rule
+Opportunity_ID,Unique synthetic opportunity identifier.
+Company_Name,Fictional employer/company name.
+Year,Full-year observation: 2025 or 2026.
+Quarter,Q1-Q4; opportunity seasonality is 20/30/30/20 in both years.
+State,Iowa or South Dakota; 80/20 in each year.
+Industry,Fictional contextual industry classification.
+Salesperson,Synthetic salesperson assigned according to locked annual rosters.
+Lead_Source,"Marketing Inbound, Sales Prospecting, Broker / Agent Referral, or Executive Referral."
+Size_Segment,"Lower Market (51-500), Middle Market (501-1,000), Enterprise (1,001-5,000)."
+Employee_Count,Synthetic eligible employee count within the Size_Segment range.
+Publicly_Traded,Context/control field; probability varies by size segment and does not directly determine Won.
+Relationship_Maturity,"New, Developing, or Established."
+Inherited_Relationship,Yes for 40 transferred 2026 relationships; No otherwise.
+New_Product_Presented,2026: Yes for 67 opportunities and No for 33; 2025: N/A.
+In_Person through Entertaining,Detailed synthetic activity counts by opportunity.
+Meaningful_Engagements,In-person + lunches + Teams + phone calls + drop-ins + entertaining.
+Low_Touch_Activities,Emails + voicemails + texts.
+Total_Activities,Meaningful_Engagements + Low_Touch_Activities.
+Company_Rate_Increase_Pct,Synthetic opportunity-level quoted rate increase for Company.
+Competitor_Rate_Increase_Pct,Synthetic opportunity-level primary competitor rate increase.
+Rate_Differential_Points,"Company minus competitor rate increase, in percentage points."
+Estimated_Annual_Premium,Synthetic opportunity value estimate based primarily on employee count with per-employee variation.
+Won,"Binary analytical outcome: 1 = Won, 0 = Lost."
+Outcome,Text form of Won/Lost outcome.

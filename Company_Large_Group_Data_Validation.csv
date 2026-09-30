@@ -1,0 +1,19 @@
+﻿Constraint,Expected,Actual,Status
+Total rows,200,200,PASS
+2025 opportunities,100,100,PASS
+2026 opportunities,100,100,PASS
+2025 wins,55,55,PASS
+2026 wins,25,25,PASS
+2025 activities,700,700,PASS
+2026 activities,854,854,PASS
+2025 meaningful,385,385,PASS
+2026 meaningful,376,376,PASS
+2025 low-touch,315,315,PASS
+2026 low-touch,478,478,PASS
+2026 new product presented,67,67,PASS
+2026 inherited relationships,40,40,PASS
+2025 avg rate differential,0,0,PASS
+2026 avg rate differential,2.5,2.5,PASS
+2025 quarterly wins,8 / 21 / 18 / 8,8 / 21 / 18 / 8,PASS
+2026 quarterly wins,5 / 9 / 6 / 5,5 / 9 / 6 / 5,PASS
+Predictive sanity check,No near-perfect predictability,5-fold logistic CV AUC ≈ 0.674,PASS

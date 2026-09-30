@@ -1,0 +1,201 @@
+Opportunity_ID,Company_Name,Year,Quarter,State,Industry,Salesperson,Lead_Source,Size_Segment,Employee_Count,Publicly_Traded,Relationship_Maturity,Inherited_Relationship,New_Product_Presented,In_Person,Lunches,Teams,Phone_Calls,Drop_Ins,Entertaining,Emails,Voicemails,Texts,Meaningful_Engagements,Low_Touch_Activities,Total_Activities,Company_Rate_Increase_Pct,Competitor_Rate_Increase_Pct,Rate_Differential_Points,Estimated_Annual_Premium,Won,Outcome
+LG-2025-001,Cedar Works,2025,Q1,South Dakota,Manufacturing,Derek,Sales Prospecting,Middle Market,659,No,Developing,No,,0,0,1,1,0,0,4,3,0,2,7,9,6.29,5.84,0.45,"$6,939,000 ",0,Lost
+LG-2025-002,Bridge Supply,2025,Q1,South Dakota,Transportation & Logistics,Carol,Marketing Inbound,Lower Market,84,No,Developing,No,,1,1,0,1,0,0,6,0,1,3,7,10,4.55,4.87,-0.32,"$916,000 ",0,Lost
+LG-2025-003,Northstar Enterprises,2025,Q1,Iowa,Manufacturing,Sarah,Broker / Agent Referral,Middle Market,861,No,Established,No,,2,0,0,1,0,1,3,1,0,4,4,8,6.12,5.53,0.59,"$9,794,000 ",0,Lost
+LG-2025-004,Silver AgriServices,2025,Q1,Iowa,Manufacturing,Marcus,Marketing Inbound,Lower Market,400,No,Established,No,,0,0,2,1,0,2,5,1,0,5,6,11,5.43,4.81,0.62,"$4,945,000 ",0,Lost
+LG-2025-005,Hawkeye Industries,2025,Q1,Iowa,Construction,Derek,Marketing Inbound,Lower Market,205,No,Established,No,,1,1,2,2,0,1,4,1,2,7,7,14,4.93,6.13,-1.2,"$2,078,000 ",1,Won
+LG-2025-006,Great Plains Distribution,2025,Q1,Iowa,Agriculture,Bill,Broker / Agent Referral,Middle Market,803,No,New,No,,1,0,0,3,0,1,3,1,0,5,4,9,4.58,4.78,-0.2,"$8,301,000 ",1,Won
+LG-2025-007,Great Plains Equipment,2025,Q1,South Dakota,Construction,Carol,Sales Prospecting,Middle Market,774,No,New,No,,1,0,1,0,2,0,7,1,0,4,8,12,6.2,4.47,1.73,"$8,628,000 ",1,Won
+LG-2025-008,Cedar AgriServices,2025,Q1,Iowa,Agriculture,Sarah,Executive Referral,Middle Market,564,No,Established,No,,2,0,1,2,0,1,4,2,0,6,6,12,6.57,5.33,1.24,"$6,810,000 ",1,Won
+LG-2025-009,Redwood Holdings,2025,Q1,Iowa,Manufacturing,Bill,Broker / Agent Referral,Middle Market,927,No,Established,No,,3,2,1,3,0,0,4,0,0,9,4,13,5.63,5.03,0.6,"$10,504,000 ",1,Won
+LG-2025-010,Blue River Services,2025,Q1,Iowa,Manufacturing,Marcus,Marketing Inbound,Lower Market,54,No,Developing,No,,1,0,0,1,1,0,5,0,0,3,5,8,5.73,4.53,1.2,"$542,000 ",1,Won
+LG-2025-011,Northstar Construction,2025,Q1,Iowa,Food & Beverage,Natalie,Marketing Inbound,Lower Market,153,No,Established,No,,0,0,1,1,0,1,4,1,0,3,5,8,6.26,5.06,1.2,"$1,839,000 ",0,Lost
+LG-2025-012,Redwood Supply,2025,Q1,Iowa,Agriculture,Bill,Executive Referral,Middle Market,591,No,Developing,No,,0,1,0,2,1,0,5,0,1,4,6,10,4.5,4.49,0.01,"$5,586,000 ",0,Lost
+LG-2025-013,Heartland Industries,2025,Q1,Iowa,Agriculture,Bill,Marketing Inbound,Lower Market,471,No,Developing,No,,0,0,1,0,0,0,4,1,0,1,5,6,6.35,4.78,1.57,"$4,497,000 ",0,Lost
+LG-2025-014,Northstar Logistics,2025,Q1,South Dakota,Agriculture,Bill,Broker / Agent Referral,Middle Market,709,No,Established,No,,1,2,1,0,0,0,5,1,0,4,6,10,3.23,4.08,-0.85,"$7,970,000 ",0,Lost
+LG-2025-015,Midland Technologies,2025,Q1,Iowa,Financial Services,Marcus,Sales Prospecting,Middle Market,611,No,Established,No,,1,1,1,0,2,0,6,2,0,5,8,13,5.89,4.74,1.15,"$5,832,000 ",0,Lost
+LG-2025-016,Meadow Services,2025,Q1,Iowa,Retail,Carol,Sales Prospecting,Middle Market,987,No,Developing,No,,3,0,0,1,0,0,5,0,0,4,5,9,6.72,5.75,0.97,"$12,887,000 ",0,Lost
+LG-2025-017,Ironwood Products,2025,Q1,Iowa,Construction,Bill,Executive Referral,Middle Market,842,No,Established,No,,4,0,1,1,0,1,6,0,0,7,6,13,7.39,5.77,1.62,"$8,977,000 ",1,Won
+LG-2025-018,Lakeside Manufacturing,2025,Q1,Iowa,Manufacturing,Carol,Sales Prospecting,Middle Market,936,No,Developing,No,,2,1,1,0,0,0,5,0,0,4,5,9,3.45,4.9,-1.45,"$8,573,000 ",0,Lost
+LG-2025-019,Clearwater Foods,2025,Q1,Iowa,Retail,Marcus,Sales Prospecting,Middle Market,963,No,Established,No,,2,1,2,1,0,0,5,0,1,6,6,12,5.94,4.85,1.09,"$10,564,000 ",1,Won
+LG-2025-020,Prairie Logistics,2025,Q1,Iowa,Healthcare,Bill,Broker / Agent Referral,Middle Market,587,No,Established,No,,1,0,0,1,0,2,6,2,0,4,8,12,2.13,4.32,-2.19,"$7,104,000 ",0,Lost
+LG-2025-021,Oak Technologies,2025,Q2,Iowa,Healthcare,Carol,Sales Prospecting,Enterprise,3752,Yes,Developing,No,,1,0,0,1,0,0,4,2,0,2,6,8,5.02,6.06,-1.04,"$39,488,000 ",1,Won
+LG-2025-022,Heartland Supply,2025,Q2,Iowa,Retail,Natalie,Sales Prospecting,Enterprise,4815,No,New,No,,1,1,2,0,0,0,5,1,0,4,6,10,2.45,5.08,-2.63,"$43,445,000 ",0,Lost
+LG-2025-023,Lakeside Group,2025,Q2,South Dakota,Construction,Marcus,Broker / Agent Referral,Middle Market,805,No,Established,No,,3,0,2,1,1,0,6,0,0,7,6,13,4.66,4.58,0.08,"$8,842,000 ",1,Won
+LG-2025-024,Oak Logistics,2025,Q2,South Dakota,Manufacturing,Carol,Executive Referral,Middle Market,817,No,New,No,,0,0,0,1,0,0,6,1,0,1,7,8,6.04,5.86,0.18,"$7,305,000 ",1,Won
+LG-2025-025,Prairie Group,2025,Q2,Iowa,Financial Services,Carol,Executive Referral,Middle Market,510,No,New,No,,0,0,0,0,0,0,4,0,0,0,4,4,6.6,4.93,1.67,"$4,921,000 ",1,Won
+LG-2025-026,Westfield Services,2025,Q2,Iowa,Healthcare,Sarah,Executive Referral,Middle Market,799,Yes,Established,No,,0,1,0,3,0,0,5,1,0,4,6,10,7.15,5.08,2.07,"$9,169,000 ",1,Won
+LG-2025-027,River Services,2025,Q2,Iowa,Agriculture,Natalie,Sales Prospecting,Middle Market,957,No,New,No,,0,0,1,0,0,0,6,0,0,1,6,7,3.91,3.5,0.41,"$11,477,000 ",0,Lost
+LG-2025-028,Valley Works,2025,Q2,Iowa,Food & Beverage,Derek,Marketing Inbound,Middle Market,756,No,Established,No,,1,1,0,0,0,1,5,0,0,3,5,8,4.33,4.22,0.11,"$8,469,000 ",0,Lost
+LG-2025-029,Valley Foods,2025,Q2,Iowa,Healthcare,Bill,Executive Referral,Middle Market,994,No,Established,No,,3,1,1,1,0,1,5,0,0,7,5,12,4.8,3.76,1.04,"$12,514,000 ",1,Won
+LG-2025-030,Silver Health Services,2025,Q2,Iowa,Transportation & Logistics,Natalie,Marketing Inbound,Middle Market,965,No,Established,No,,1,1,1,0,2,0,6,2,0,5,8,13,5.64,4.64,1,"$9,316,000 ",0,Lost
+LG-2025-031,Granite Health Services,2025,Q2,Iowa,Manufacturing,Carol,Broker / Agent Referral,Middle Market,569,No,Established,No,,0,0,0,3,2,0,5,0,0,5,5,10,5.48,5.47,0.01,"$5,939,000 ",1,Won
+LG-2025-032,Northstar Distribution,2025,Q2,South Dakota,Financial Services,Natalie,Broker / Agent Referral,Middle Market,605,Yes,Developing,No,,0,0,2,1,0,0,5,0,0,3,5,8,7.63,5.57,2.06,"$7,294,000 ",0,Lost
+LG-2025-033,Greenfield AgriServices,2025,Q2,Iowa,Manufacturing,Derek,Sales Prospecting,Middle Market,532,No,Established,No,,2,2,1,1,0,1,5,2,0,7,7,14,4.63,5.56,-0.93,"$5,787,000 ",1,Won
+LG-2025-034,Prairie Distribution,2025,Q2,Iowa,Agriculture,Marcus,Marketing Inbound,Middle Market,863,No,New,No,,2,0,0,1,0,0,4,3,0,3,7,10,3.73,5.24,-1.51,"$10,681,000 ",1,Won
+LG-2025-035,Lakeside Equipment,2025,Q2,Iowa,Transportation & Logistics,Natalie,Broker / Agent Referral,Middle Market,964,No,Established,No,,0,2,0,2,1,0,5,1,0,5,6,11,6.41,5.36,1.05,"$10,569,000 ",1,Won
+LG-2025-036,Redwood Supply 36,2025,Q2,Iowa,Manufacturing,Derek,Executive Referral,Middle Market,979,No,Established,No,,0,1,1,0,0,0,6,1,0,2,7,9,5.75,4.44,1.31,"$9,863,000 ",1,Won
+LG-2025-037,Redwood Systems,2025,Q2,Iowa,Transportation & Logistics,Sarah,Broker / Agent Referral,Lower Market,394,No,New,No,,0,0,1,0,0,0,6,1,1,1,8,9,5.29,4.89,0.4,"$3,789,000 ",0,Lost
+LG-2025-038,Valley Construction,2025,Q2,Iowa,Food & Beverage,Bill,Executive Referral,Enterprise,3946,No,Developing,No,,1,0,0,2,0,1,4,2,0,4,6,10,3.01,4.23,-1.22,"$39,924,000 ",1,Won
+LG-2025-039,Stonebridge Products,2025,Q2,Iowa,Retail,Derek,Sales Prospecting,Middle Market,703,No,Established,No,,0,1,1,2,1,0,5,1,1,5,7,12,6.82,5.35,1.47,"$7,499,000 ",1,Won
+LG-2025-040,Midland Foods,2025,Q2,Iowa,Agriculture,Derek,Executive Referral,Middle Market,981,No,Established,No,,2,0,2,1,0,0,6,0,0,5,6,11,4.13,4.11,0.02,"$8,996,000 ",1,Won
+LG-2025-041,Cedar Works 41,2025,Q2,Iowa,Financial Services,Derek,Broker / Agent Referral,Lower Market,171,No,New,No,,0,1,2,0,0,1,6,0,0,4,6,10,4.05,4.4,-0.35,"$1,644,000 ",0,Lost
+LG-2025-042,Summit Supply,2025,Q2,South Dakota,Agriculture,Carol,Broker / Agent Referral,Lower Market,369,No,Developing,No,,3,0,0,0,0,1,4,0,1,4,5,9,3.6,4.83,-1.23,"$4,519,000 ",1,Won
+LG-2025-043,Great Plains Holdings,2025,Q2,Iowa,Manufacturing,Sarah,Sales Prospecting,Middle Market,894,No,Developing,No,,0,0,0,1,2,0,6,0,0,3,6,9,4.7,4.91,-0.21,"$11,334,000 ",1,Won
+LG-2025-044,Capital Solutions,2025,Q2,Iowa,Manufacturing,Natalie,Sales Prospecting,Enterprise,2724,Yes,Developing,No,,3,1,0,1,0,0,4,2,0,5,6,11,3.92,4.72,-0.8,"$35,822,000 ",1,Won
+LG-2025-045,Valley Supply,2025,Q2,Iowa,Manufacturing,Carol,Executive Referral,Middle Market,809,No,Developing,No,,2,1,0,1,0,0,5,1,0,4,6,10,2.33,4.47,-2.14,"$10,074,000 ",1,Won
+LG-2025-046,Redwood Manufacturing,2025,Q2,South Dakota,Transportation & Logistics,Carol,Sales Prospecting,Lower Market,74,No,Established,No,,2,1,1,1,0,0,5,0,0,5,5,10,3.62,4.71,-1.09,"$945,000 ",1,Won
+LG-2025-047,Lakeside Partners,2025,Q2,Iowa,Retail,Marcus,Sales Prospecting,Lower Market,265,No,Established,No,,1,1,1,0,1,0,7,2,0,4,9,13,4.09,4.83,-0.74,"$3,110,000 ",1,Won
+LG-2025-048,Pioneer Solutions,2025,Q2,Iowa,Manufacturing,Sarah,Marketing Inbound,Middle Market,902,No,New,No,,0,0,1,0,0,1,9,1,0,2,10,12,4.91,4.29,0.62,"$9,308,000 ",0,Lost
+LG-2025-049,Granite AgriServices,2025,Q2,Iowa,Manufacturing,Natalie,Sales Prospecting,Middle Market,502,No,Established,No,,1,0,0,0,0,0,4,1,0,1,5,6,5.27,6.08,-0.81,"$6,071,000 ",1,Won
+LG-2025-050,Capital Logistics,2025,Q2,Iowa,Technology,Bill,Broker / Agent Referral,Middle Market,560,No,Established,No,,0,2,1,0,0,1,6,0,0,4,6,10,5.95,5.21,0.74,"$6,511,000 ",0,Lost
+LG-2025-051,Blue River Distribution,2025,Q3,Iowa,Manufacturing,Marcus,Broker / Agent Referral,Middle Market,859,No,Developing,No,,0,2,0,0,1,0,5,0,1,3,6,9,1.7,3.51,-1.81,"$7,464,000 ",1,Won
+LG-2025-052,Northstar AgriServices,2025,Q3,Iowa,Agriculture,Carol,Broker / Agent Referral,Enterprise,4571,Yes,Established,No,,0,1,3,1,0,0,4,0,0,5,4,9,4.86,5.62,-0.76,"$53,681,000 ",0,Lost
+LG-2025-053,Keystone Technologies,2025,Q3,Iowa,Professional Services,Sarah,Executive Referral,Middle Market,930,No,Established,No,,2,0,0,1,1,1,4,1,0,5,5,10,5.75,4.95,0.8,"$11,432,000 ",1,Won
+LG-2025-054,Stonebridge Equipment,2025,Q3,Iowa,Manufacturing,Marcus,Broker / Agent Referral,Middle Market,799,No,New,No,,0,0,1,3,0,0,4,0,0,4,4,8,6.51,5.29,1.22,"$9,516,000 ",0,Lost
+LG-2025-055,Hawkeye Equipment,2025,Q3,Iowa,Construction,Carol,Sales Prospecting,Enterprise,2341,No,Established,No,,1,1,2,0,1,0,6,0,0,5,6,11,7.06,5.98,1.08,"$25,989,000 ",1,Won
+LG-2025-056,River Enterprises,2025,Q3,Iowa,Financial Services,Marcus,Broker / Agent Referral,Middle Market,883,No,Developing,No,,0,1,1,0,1,0,6,0,0,3,6,9,3.93,5.29,-1.36,"$9,798,000 ",0,Lost
+LG-2025-057,Keystone Works,2025,Q3,Iowa,Transportation & Logistics,Marcus,Marketing Inbound,Middle Market,718,No,New,No,,0,0,0,0,0,0,5,1,0,0,6,6,4.81,4.52,0.29,"$9,676,000 ",1,Won
+LG-2025-058,Ironwood Group,2025,Q3,Iowa,Agriculture,Bill,Marketing Inbound,Lower Market,265,No,New,No,,0,0,0,0,0,1,4,2,1,1,7,8,3.87,4.51,-0.64,"$2,597,000 ",0,Lost
+LG-2025-059,Blue River Logistics,2025,Q3,Iowa,Agriculture,Sarah,Broker / Agent Referral,Middle Market,748,No,Established,No,,1,0,1,2,0,0,5,2,0,4,7,11,2.56,4.76,-2.2,"$9,039,000 ",1,Won
+LG-2025-060,Frontier Distribution,2025,Q3,Iowa,Retail,Bill,Broker / Agent Referral,Lower Market,463,No,Established,No,,0,0,4,3,0,0,5,0,1,7,6,13,5.02,4.79,0.23,"$5,381,000 ",1,Won
+LG-2025-061,Redwood Equipment,2025,Q3,Iowa,Food & Beverage,Bill,Sales Prospecting,Middle Market,921,No,Established,No,,1,0,0,2,0,1,5,1,1,4,7,11,5.91,5.44,0.47,"$10,324,000 ",0,Lost
+LG-2025-062,Greenfield Group,2025,Q3,Iowa,Financial Services,Marcus,Executive Referral,Lower Market,335,No,Developing,No,,1,1,0,0,0,0,4,0,0,2,4,6,2.37,5.1,-2.73,"$4,079,000 ",1,Won
+LG-2025-063,Central Construction,2025,Q3,Iowa,Healthcare,Bill,Broker / Agent Referral,Middle Market,607,No,Established,No,,0,1,1,0,0,0,4,1,0,2,5,7,1.5,3.97,-2.47,"$6,647,000 ",0,Lost
+LG-2025-064,Northstar Systems,2025,Q3,South Dakota,Healthcare,Derek,Marketing Inbound,Lower Market,123,No,Established,No,,2,1,0,1,0,0,6,0,0,4,6,10,4.93,4.2,0.73,"$1,196,000 ",1,Won
+LG-2025-065,Eastgate Supply,2025,Q3,Iowa,Agriculture,Sarah,Broker / Agent Referral,Enterprise,2557,No,New,No,,2,1,1,3,0,0,4,2,0,7,6,13,5.01,5.16,-0.15,"$27,880,000 ",1,Won
+LG-2025-066,Silver Technologies,2025,Q3,Iowa,Retail,Bill,Marketing Inbound,Enterprise,1205,No,Established,No,,2,0,0,0,0,0,7,0,0,2,7,9,2.04,4.06,-2.02,"$12,168,000 ",1,Won
+LG-2025-067,Pioneer Solutions 67,2025,Q3,Iowa,Retail,Sarah,Marketing Inbound,Enterprise,1540,No,Established,No,,0,0,0,0,0,0,5,0,0,0,5,5,5.6,5.38,0.22,"$16,297,000 ",1,Won
+LG-2025-068,Granite Supply,2025,Q3,Iowa,Healthcare,Sarah,Sales Prospecting,Middle Market,689,No,Established,No,,1,3,0,1,0,0,4,0,0,5,4,9,5.63,5.08,0.55,"$8,345,000 ",0,Lost
+LG-2025-069,Valley Works 69,2025,Q3,Iowa,Agriculture,Natalie,Marketing Inbound,Middle Market,751,No,Established,No,,1,0,1,1,0,2,4,3,0,5,7,12,5.05,4.81,0.24,"$9,583,000 ",0,Lost
+LG-2025-070,Heritage Works,2025,Q3,South Dakota,Manufacturing,Bill,Sales Prospecting,Middle Market,652,No,New,No,,0,1,0,2,0,0,3,1,1,3,5,8,4.15,5.27,-1.12,"$6,999,000 ",1,Won
+LG-2025-071,Westfield Supply,2025,Q3,Iowa,Manufacturing,Natalie,Broker / Agent Referral,Middle Market,884,No,Established,No,,1,2,1,2,0,0,4,0,1,6,5,11,5.15,5.65,-0.5,"$12,278,000 ",1,Won
+LG-2025-072,Great Plains Equipment 72,2025,Q3,Iowa,Healthcare,Sarah,Marketing Inbound,Middle Market,620,No,Established,No,,1,2,3,1,0,0,3,2,0,7,5,12,6.81,4.34,2.47,"$8,416,000 ",0,Lost
+LG-2025-073,Heartland AgriServices,2025,Q3,Iowa,Healthcare,Marcus,Broker / Agent Referral,Middle Market,599,No,Established,No,,2,1,1,0,0,0,6,0,0,4,6,10,4.98,4.72,0.26,"$8,176,000 ",1,Won
+LG-2025-074,Cedar Group,2025,Q3,Iowa,Agriculture,Derek,Marketing Inbound,Middle Market,637,No,New,No,,0,1,0,0,0,0,3,0,0,1,3,4,6.64,5.07,1.57,"$8,005,000 ",1,Won
+LG-2025-075,Meadow Works,2025,Q3,Iowa,Agriculture,Carol,Broker / Agent Referral,Lower Market,60,No,New,No,,2,0,1,1,0,0,6,0,0,4,6,10,4.46,4.86,-0.4,"$732,000 ",0,Lost
+LG-2025-076,Ironwood Construction,2025,Q3,Iowa,Construction,Sarah,Broker / Agent Referral,Lower Market,91,No,Developing,No,,0,1,1,1,1,0,4,1,0,4,5,9,2.17,3.99,-1.82,"$1,218,000 ",1,Won
+LG-2025-077,Valley Health Services,2025,Q3,Iowa,Agriculture,Marcus,Sales Prospecting,Enterprise,4783,Yes,Established,No,,2,2,0,1,1,0,5,5,0,6,10,16,5.33,4.03,1.3,"$47,726,000 ",0,Lost
+LG-2025-078,Northstar Holdings,2025,Q3,South Dakota,Technology,Natalie,Broker / Agent Referral,Enterprise,1440,No,Established,No,,2,1,1,2,0,0,6,0,1,6,7,13,3.86,5.24,-1.38,"$14,910,000 ",1,Won
+LG-2025-079,Valley Health Services 79,2025,Q3,Iowa,Agriculture,Derek,Executive Referral,Lower Market,262,No,Developing,No,,0,1,0,1,0,0,4,2,0,2,6,8,1.73,3.65,-1.92,"$3,357,000 ",0,Lost
+LG-2025-080,Great Plains Construction,2025,Q3,Iowa,Transportation & Logistics,Carol,Sales Prospecting,Middle Market,893,No,Established,No,,0,1,0,0,0,0,3,0,0,1,3,4,7.87,6.5,1.37,"$10,484,000 ",1,Won
+LG-2025-081,Stonebridge Services,2025,Q4,Iowa,Construction,Carol,Sales Prospecting,Enterprise,3921,No,Established,No,,1,0,0,2,0,1,3,0,0,4,3,7,2.55,4.34,-1.79,"$37,244,000 ",0,Lost
+LG-2025-082,Heartland Foods,2025,Q4,South Dakota,Agriculture,Carol,Sales Prospecting,Lower Market,413,No,Developing,No,,1,0,0,0,1,0,4,3,0,2,7,9,6.33,5.45,0.88,"$5,699,000 ",0,Lost
+LG-2025-083,Northstar Construction 83,2025,Q4,Iowa,Transportation & Logistics,Derek,Broker / Agent Referral,Enterprise,1097,No,New,No,,0,0,1,1,0,0,4,1,0,2,5,7,4.09,4.17,-0.08,"$11,489,000 ",0,Lost
+LG-2025-084,Redwood Services,2025,Q4,Iowa,Professional Services,Derek,Broker / Agent Referral,Middle Market,588,No,New,No,,0,0,0,1,0,0,4,0,0,1,4,5,3.64,4.99,-1.35,"$6,482,000 ",1,Won
+LG-2025-085,Central Services,2025,Q4,Iowa,Retail,Bill,Sales Prospecting,Middle Market,921,No,New,No,,0,0,0,1,0,0,5,0,1,1,6,7,6.14,4.77,1.37,"$10,435,000 ",0,Lost
+LG-2025-086,Eastgate Logistics,2025,Q4,South Dakota,Manufacturing,Bill,Marketing Inbound,Middle Market,754,No,New,No,,1,0,0,1,0,0,9,1,0,2,10,12,8.19,5.63,2.56,"$10,326,000 ",1,Won
+LG-2025-087,Pioneer Products,2025,Q4,South Dakota,Professional Services,Bill,Broker / Agent Referral,Enterprise,3501,No,Developing,No,,1,0,2,0,0,0,4,2,1,3,7,10,4.65,5.36,-0.71,"$34,729,000 ",1,Won
+LG-2025-088,Westfield Holdings,2025,Q4,South Dakota,Agriculture,Sarah,Broker / Agent Referral,Middle Market,946,No,Established,No,,0,0,2,1,2,1,6,1,0,6,7,13,4.95,4.56,0.39,"$11,857,000 ",1,Won
+LG-2025-089,Oak AgriServices,2025,Q4,Iowa,Technology,Natalie,Sales Prospecting,Enterprise,3825,No,New,No,,1,0,0,2,0,0,10,1,0,3,11,14,4.35,4.46,-0.11,"$40,780,000 ",0,Lost
+LG-2025-090,Westfield Supply 90,2025,Q4,Iowa,Financial Services,Carol,Broker / Agent Referral,Enterprise,1547,No,Established,No,,2,0,0,0,0,0,3,1,0,2,4,6,7.93,6.32,1.61,"$13,275,000 ",0,Lost
+LG-2025-091,Meadow Partners,2025,Q4,Iowa,Healthcare,Natalie,Sales Prospecting,Middle Market,542,No,Established,No,,1,2,0,3,1,0,5,3,1,7,9,16,1.74,4.86,-3.12,"$5,845,000 ",1,Won
+LG-2025-092,Capital Solutions 92,2025,Q4,South Dakota,Healthcare,Derek,Marketing Inbound,Middle Market,675,No,Developing,No,,0,0,1,1,1,1,6,0,0,4,6,10,4.25,4.89,-0.64,"$7,045,000 ",0,Lost
+LG-2025-093,Great Plains Logistics,2025,Q4,South Dakota,Construction,Natalie,Sales Prospecting,Enterprise,2133,No,Developing,No,,3,1,2,1,0,0,6,2,1,7,9,16,3.85,4.83,-0.98,"$24,379,000 ",0,Lost
+LG-2025-094,Redwood Manufacturing 94,2025,Q4,Iowa,Manufacturing,Carol,Sales Prospecting,Middle Market,723,Yes,New,No,,1,0,0,3,0,0,6,1,1,4,8,12,5.25,4.92,0.33,"$6,658,000 ",1,Won
+LG-2025-095,Pioneer Solutions 95,2025,Q4,Iowa,Healthcare,Sarah,Broker / Agent Referral,Enterprise,4958,No,Established,No,,2,2,0,2,0,1,5,0,1,7,6,13,5.19,5,0.19,"$69,908,000 ",1,Won
+LG-2025-096,Blue River Systems,2025,Q4,Iowa,Transportation & Logistics,Derek,Broker / Agent Referral,Middle Market,991,No,New,No,,1,1,0,1,0,0,3,1,0,3,4,7,5.89,5.09,0.8,"$10,856,000 ",0,Lost
+LG-2025-097,Meadow Health Services,2025,Q4,South Dakota,Retail,Marcus,Broker / Agent Referral,Middle Market,965,No,New,No,,1,1,1,1,0,1,6,1,0,5,7,12,5.18,4.99,0.19,"$11,608,000 ",0,Lost
+LG-2025-098,Redwood Foods,2025,Q4,South Dakota,Transportation & Logistics,Carol,Executive Referral,Lower Market,386,No,Developing,No,,1,1,0,0,0,0,6,0,0,2,6,8,6.93,5.09,1.84,"$4,959,000 ",1,Won
+LG-2025-099,Frontier Holdings,2025,Q4,Iowa,Construction,Natalie,Broker / Agent Referral,Enterprise,4825,Yes,Established,No,,0,1,1,1,1,0,3,0,0,4,3,7,3.48,5.02,-1.54,"$44,318,000 ",0,Lost
+LG-2025-100,Eastgate Systems,2025,Q4,Iowa,Transportation & Logistics,Bill,Sales Prospecting,Enterprise,1757,Yes,Developing,No,,2,1,0,1,0,0,4,0,0,4,4,8,5.87,4.6,1.27,"$21,741,000 ",0,Lost
+LG-2026-001,Keystone Systems,2026,Q1,Iowa,Food & Beverage,Javier,Broker / Agent Referral,Middle Market,941,No,Established,Yes,Yes,1,0,3,0,0,1,6,0,2,5,8,13,4.74,4.62,0.12,"$9,693,000 ",1,Won
+LG-2026-002,Redwood Services 102,2026,Q1,Iowa,Retail,Addie,Broker / Agent Referral,Middle Market,511,Yes,Established,No,Yes,1,1,2,1,0,0,5,0,0,5,5,10,5.98,5.44,0.54,"$6,370,000 ",1,Won
+LG-2026-003,Clearwater Systems,2026,Q1,South Dakota,Professional Services,Marcus,Broker / Agent Referral,Enterprise,4948,No,Established,No,No,0,0,0,1,0,0,6,0,0,1,6,7,8.49,5.07,3.42,"$57,412,000 ",1,Won
+LG-2026-004,Lakeside Logistics,2026,Q1,Iowa,Agriculture,Madison,Broker / Agent Referral,Middle Market,517,Yes,Developing,Yes,No,0,1,1,1,0,0,3,0,0,3,3,6,8.28,5.56,2.72,"$4,239,000 ",0,Lost
+LG-2026-005,Hawkeye Group,2026,Q1,Iowa,Food & Beverage,Derek,Broker / Agent Referral,Enterprise,4557,Yes,New,No,No,0,0,0,0,0,0,4,0,1,0,5,5,9.62,5.43,4.19,"$41,601,000 ",0,Lost
+LG-2026-006,Granite Industries,2026,Q1,Iowa,Agriculture,Madison,Marketing Inbound,Lower Market,426,No,New,Yes,Yes,0,0,3,1,0,0,8,0,3,4,11,15,6.66,4.9,1.76,"$5,454,000 ",0,Lost
+LG-2026-007,Oak Technologies 107,2026,Q1,Iowa,Transportation & Logistics,Sarah,Broker / Agent Referral,Middle Market,794,Yes,New,No,No,0,0,0,0,0,0,10,0,2,0,12,12,6.31,4.59,1.72,"$9,591,000 ",0,Lost
+LG-2026-008,Greenfield Distribution,2026,Q1,South Dakota,Transportation & Logistics,Addie,Sales Prospecting,Middle Market,946,No,Developing,No,Yes,1,1,2,0,0,1,3,1,0,5,4,9,5.3,4.11,1.19,"$10,000,000 ",0,Lost
+LG-2026-009,Meadow Enterprises,2026,Q1,South Dakota,Financial Services,Madison,Executive Referral,Middle Market,889,No,Developing,Yes,No,1,0,1,1,0,0,5,0,1,3,6,9,5.03,5.99,-0.96,"$10,161,000 ",0,Lost
+LG-2026-010,Hawkeye Equipment 110,2026,Q1,Iowa,Transportation & Logistics,Marcus,Broker / Agent Referral,Enterprise,3948,Yes,New,No,Yes,2,1,2,1,0,0,6,1,3,6,10,16,5.46,4.63,0.83,"$41,782,000 ",0,Lost
+LG-2026-011,Midland Group,2026,Q1,Iowa,Agriculture,Javier,Executive Referral,Middle Market,628,No,Established,Yes,No,1,0,2,0,0,1,6,0,0,4,6,10,7.98,4.99,2.99,"$7,810,000 ",0,Lost
+LG-2026-012,River Health Services,2026,Q1,South Dakota,Agriculture,Derek,Sales Prospecting,Middle Market,950,No,New,No,No,0,0,3,0,0,0,6,0,4,3,10,13,8.04,5.99,2.05,"$10,942,000 ",0,Lost
+LG-2026-013,Summit Logistics,2026,Q1,Iowa,Agriculture,Javier,Sales Prospecting,Middle Market,934,No,Developing,Yes,Yes,3,1,1,1,0,0,3,0,2,6,5,11,7.24,5.55,1.69,"$10,526,000 ",1,Won
+LG-2026-014,Bridge Group,2026,Q1,Iowa,Manufacturing,Madison,Broker / Agent Referral,Middle Market,863,No,New,Yes,No,0,0,2,2,0,0,6,2,0,4,8,12,10.28,6.19,4.09,"$11,843,000 ",0,Lost
+LG-2026-015,Summit Partners,2026,Q1,Iowa,Manufacturing,Natalie,Sales Prospecting,Middle Market,904,No,Established,No,Yes,0,0,0,1,0,0,6,0,0,1,6,7,4.55,3.86,0.69,"$10,660,000 ",0,Lost
+LG-2026-016,Cedar Solutions,2026,Q1,Iowa,Financial Services,Natalie,Broker / Agent Referral,Enterprise,3222,Yes,Established,No,No,2,3,1,0,0,1,5,2,0,7,7,14,10.67,5.33,5.34,"$41,506,000 ",1,Won
+LG-2026-017,Cedar Supply,2026,Q1,South Dakota,Manufacturing,Addie,Executive Referral,Middle Market,512,No,Established,No,Yes,1,0,4,1,0,0,5,0,1,6,6,12,8.22,4.95,3.27,"$5,746,000 ",0,Lost
+LG-2026-018,Greenfield AgriServices 118,2026,Q1,South Dakota,Transportation & Logistics,Madison,Sales Prospecting,Middle Market,619,No,New,Yes,Yes,0,0,0,0,0,0,8,1,0,0,9,9,8.63,5.44,3.19,"$7,048,000 ",0,Lost
+LG-2026-019,Frontier Manufacturing,2026,Q1,Iowa,Professional Services,Colby,Marketing Inbound,Lower Market,85,No,New,No,Yes,2,1,0,3,0,0,5,1,2,6,8,14,5.7,4.07,1.63,"$986,000 ",0,Lost
+LG-2026-020,Summit Group,2026,Q1,South Dakota,Construction,Derek,Marketing Inbound,Lower Market,213,No,Developing,No,No,1,1,0,1,0,0,6,0,2,3,8,11,8.52,4.38,4.14,"$2,462,000 ",0,Lost
+LG-2026-021,Eastgate Equipment,2026,Q2,Iowa,Manufacturing,Derek,Marketing Inbound,Lower Market,282,No,New,Yes,Yes,0,0,0,0,0,0,9,1,1,0,11,11,8.1,5.08,3.02,"$3,148,000 ",1,Won
+LG-2026-022,Silver Supply,2026,Q2,Iowa,Manufacturing,Javier,Marketing Inbound,Lower Market,373,No,Developing,Yes,Yes,0,0,3,0,0,0,6,1,0,3,7,10,6.96,5.5,1.46,"$3,999,000 ",0,Lost
+LG-2026-023,Ironwood Products 123,2026,Q2,Iowa,Technology,Derek,Marketing Inbound,Lower Market,172,No,New,No,No,2,0,0,0,0,0,5,1,0,2,6,8,7.91,5.01,2.9,"$2,098,000 ",0,Lost
+LG-2026-024,Great Plains Construction 124,2026,Q2,Iowa,Construction,Derek,Executive Referral,Enterprise,1800,No,New,No,No,3,0,2,0,0,0,9,0,0,5,9,14,10.52,4.67,5.85,"$20,686,000 ",0,Lost
+LG-2026-025,Lakeside Works,2026,Q2,Iowa,Technology,Derek,Marketing Inbound,Lower Market,371,No,Established,Yes,Yes,1,1,5,1,0,0,3,0,1,8,4,12,7.08,4.2,2.88,"$5,373,000 ",1,Won
+LG-2026-026,Clearwater Holdings,2026,Q2,Iowa,Technology,Sarah,Marketing Inbound,Lower Market,100,Yes,Developing,Yes,No,1,0,0,0,0,0,6,2,1,1,9,10,6.59,4.97,1.62,"$1,035,000 ",0,Lost
+LG-2026-027,Bridge Partners,2026,Q2,Iowa,Transportation & Logistics,Derek,Executive Referral,Middle Market,723,No,Developing,No,Yes,0,0,3,1,0,0,6,1,2,4,9,13,10.17,5.62,4.55,"$9,490,000 ",0,Lost
+LG-2026-028,Ironwood Supply,2026,Q2,Iowa,Technology,Marcus,Sales Prospecting,Middle Market,626,No,Established,No,Yes,1,1,1,0,0,0,5,0,2,3,7,10,8.38,4.28,4.1,"$6,996,000 ",0,Lost
+LG-2026-029,Summit Manufacturing,2026,Q2,Iowa,Professional Services,Marcus,Sales Prospecting,Middle Market,834,Yes,Established,No,Yes,2,1,2,0,0,1,6,1,1,6,8,14,8.25,5.34,2.91,"$8,109,000 ",0,Lost
+LG-2026-030,Heritage Products,2026,Q2,Iowa,Financial Services,Javier,Sales Prospecting,Enterprise,4908,No,New,Yes,Yes,0,0,1,0,0,0,4,0,0,1,4,5,5.52,4.86,0.66,"$49,308,000 ",0,Lost
+LG-2026-031,Midland Technologies 131,2026,Q2,Iowa,Manufacturing,Sarah,Marketing Inbound,Lower Market,116,No,New,No,No,1,0,1,0,0,0,7,4,0,2,11,13,5.58,4.03,1.55,"$1,115,000 ",0,Lost
+LG-2026-032,Midland Systems,2026,Q2,Iowa,Food & Beverage,Sarah,Broker / Agent Referral,Enterprise,4998,No,New,No,Yes,1,0,2,0,0,0,5,4,1,3,10,13,8.76,4.87,3.89,"$49,566,000 ",0,Lost
+LG-2026-033,Stonebridge AgriServices,2026,Q2,South Dakota,Manufacturing,Marcus,Sales Prospecting,Enterprise,2369,No,New,Yes,No,0,0,1,1,0,0,6,1,0,2,7,9,7.54,5.39,2.15,"$24,411,000 ",1,Won
+LG-2026-034,Great Plains Systems,2026,Q2,Iowa,Construction,Sarah,Sales Prospecting,Middle Market,924,No,Established,Yes,Yes,0,0,1,3,0,0,9,0,0,4,9,13,7.64,5.51,2.13,"$9,950,000 ",0,Lost
+LG-2026-035,Frontier Works,2026,Q2,Iowa,Transportation & Logistics,Madison,Sales Prospecting,Middle Market,745,No,Established,Yes,Yes,4,0,1,1,0,0,6,0,0,6,6,12,4.34,5,-0.66,"$8,359,000 ",1,Won
+LG-2026-036,Capital Equipment,2026,Q2,Iowa,Manufacturing,Marcus,Sales Prospecting,Middle Market,830,No,Established,Yes,No,0,0,2,2,0,0,5,2,0,4,7,11,6.88,5.45,1.43,"$9,992,000 ",1,Won
+LG-2026-037,Pioneer Manufacturing,2026,Q2,Iowa,Food & Beverage,Marcus,Sales Prospecting,Middle Market,583,No,Established,No,Yes,0,0,0,1,1,1,5,2,0,3,7,10,8.76,5.84,2.92,"$7,710,000 ",0,Lost
+LG-2026-038,Meadow Systems,2026,Q2,Iowa,Agriculture,Colby,Sales Prospecting,Middle Market,524,No,New,No,Yes,2,0,2,0,0,0,9,1,2,4,12,16,6.99,4.56,2.43,"$5,531,000 ",0,Lost
+LG-2026-039,Great Plains Technologies,2026,Q2,Iowa,Manufacturing,Sarah,Executive Referral,Middle Market,930,No,New,Yes,Yes,2,0,1,0,0,0,6,2,2,3,10,13,5.48,4.43,1.05,"$12,795,000 ",1,Won
+LG-2026-040,Northstar Works,2026,Q2,Iowa,Construction,Natalie,Marketing Inbound,Lower Market,321,No,Established,Yes,No,1,1,1,0,0,0,3,0,0,3,3,6,8,5.13,2.87,"$4,075,000 ",1,Won
+LG-2026-041,Silver Health Services 141,2026,Q2,Iowa,Professional Services,Addie,Marketing Inbound,Lower Market,224,No,Developing,No,No,0,0,0,0,0,0,6,0,1,0,7,7,5.96,4.64,1.32,"$2,764,000 ",0,Lost
+LG-2026-042,Meadow Partners 142,2026,Q2,South Dakota,Financial Services,Marcus,Marketing Inbound,Lower Market,383,No,Established,Yes,Yes,0,1,0,1,1,0,5,1,0,3,6,9,7.44,5.14,2.3,"$4,403,000 ",0,Lost
+LG-2026-043,Meadow Enterprises 143,2026,Q2,Iowa,Financial Services,Natalie,Marketing Inbound,Lower Market,113,No,New,No,No,1,0,0,0,1,0,9,0,0,2,9,11,5.86,4.47,1.39,"$1,475,000 ",0,Lost
+LG-2026-044,Cedar Health Services,2026,Q2,South Dakota,Manufacturing,Marcus,Broker / Agent Referral,Middle Market,979,Yes,New,No,Yes,0,0,0,0,0,0,6,0,0,0,6,6,8.01,4.9,3.11,"$11,514,000 ",0,Lost
+LG-2026-045,Stonebridge Works,2026,Q2,South Dakota,Manufacturing,Sarah,Marketing Inbound,Lower Market,70,No,Established,Yes,Yes,0,1,0,0,0,0,6,1,0,1,7,8,6.12,4.09,2.03,"$1,027,000 ",0,Lost
+LG-2026-046,Westfield Construction,2026,Q2,Iowa,Professional Services,Natalie,Sales Prospecting,Enterprise,1248,No,Established,No,Yes,1,1,2,0,0,0,4,0,1,4,5,9,7.32,3.99,3.33,"$12,017,000 ",0,Lost
+LG-2026-047,Keystone Logistics,2026,Q2,Iowa,Professional Services,Derek,Marketing Inbound,Lower Market,258,No,New,No,Yes,1,1,0,0,0,0,8,0,1,2,9,11,8.56,5.27,3.29,"$2,293,000 ",0,Lost
+LG-2026-048,Great Plains Systems 148,2026,Q2,Iowa,Professional Services,Natalie,Marketing Inbound,Lower Market,233,No,New,No,No,1,0,3,2,0,1,5,1,0,7,6,13,6.14,4.02,2.12,"$3,051,000 ",1,Won
+LG-2026-049,Keystone Group,2026,Q2,Iowa,Transportation & Logistics,Natalie,Marketing Inbound,Lower Market,88,No,Established,Yes,Yes,0,1,1,1,0,2,5,1,1,5,7,12,9.6,4.86,4.74,"$1,128,000 ",0,Lost
+LG-2026-050,Redwood Supply 150,2026,Q2,Iowa,Technology,Javier,Marketing Inbound,Lower Market,163,No,Established,Yes,Yes,1,1,3,4,0,0,3,2,1,9,6,15,6.09,3.61,2.48,"$1,598,000 ",1,Won
+LG-2026-051,Granite Supply 151,2026,Q3,Iowa,Healthcare,Madison,Broker / Agent Referral,Lower Market,418,Yes,Developing,Yes,No,2,0,3,0,0,1,6,1,0,6,7,13,7.02,4.82,2.2,"$4,951,000 ",0,Lost
+LG-2026-052,Pioneer Construction,2026,Q3,Iowa,Agriculture,Sarah,Broker / Agent Referral,Middle Market,923,No,Developing,No,Yes,1,0,2,0,0,1,9,3,0,4,12,16,8.95,4.9,4.05,"$11,517,000 ",0,Lost
+LG-2026-053,Summit Construction,2026,Q3,Iowa,Construction,Sarah,Executive Referral,Enterprise,1236,No,New,No,Yes,2,0,0,0,0,0,7,0,1,2,8,10,6.87,5.73,1.14,"$14,560,000 ",0,Lost
+LG-2026-054,Great Plains Works,2026,Q3,Iowa,Financial Services,Natalie,Sales Prospecting,Lower Market,143,No,New,No,No,0,0,0,0,0,0,5,0,0,0,5,5,4.86,4.89,-0.03,"$1,942,000 ",0,Lost
+LG-2026-055,Greenfield Industries,2026,Q3,Iowa,Financial Services,Sarah,Marketing Inbound,Middle Market,748,No,Established,No,Yes,3,0,2,0,0,0,6,0,0,5,6,11,6.37,3.5,2.87,"$8,470,000 ",1,Won
+LG-2026-056,Lakeside Products,2026,Q3,Iowa,Healthcare,Natalie,Broker / Agent Referral,Middle Market,747,No,Developing,Yes,Yes,3,0,1,0,1,0,5,0,0,5,5,10,7.98,5.17,2.81,"$8,757,000 ",0,Lost
+LG-2026-057,Blue River Equipment,2026,Q3,Iowa,Financial Services,Colby,Broker / Agent Referral,Enterprise,3544,No,New,No,Yes,0,2,0,0,0,0,7,0,2,2,9,11,9.62,5.27,4.35,"$46,143,000 ",0,Lost
+LG-2026-058,Ironwood Works,2026,Q3,Iowa,Professional Services,Javier,Broker / Agent Referral,Lower Market,220,No,New,Yes,No,1,0,1,1,0,0,6,1,0,3,7,10,4.75,4.56,0.19,"$2,152,000 ",0,Lost
+LG-2026-059,Ironwood Group 159,2026,Q3,Iowa,Food & Beverage,Derek,Executive Referral,Lower Market,346,No,Established,No,Yes,0,1,2,1,0,1,6,1,2,5,9,14,10.17,6.16,4.01,"$3,716,000 ",0,Lost
+LG-2026-060,Blue River Services 160,2026,Q3,Iowa,Retail,Addie,Broker / Agent Referral,Lower Market,121,No,Developing,No,Yes,3,3,0,1,0,0,6,0,1,7,7,14,7.21,5.67,1.54,"$1,455,000 ",1,Won
+LG-2026-061,Granite Products,2026,Q3,South Dakota,Transportation & Logistics,Natalie,Sales Prospecting,Enterprise,1681,No,Developing,No,No,1,0,3,0,0,0,4,2,0,4,6,10,6.2,4.36,1.84,"$12,641,000 ",0,Lost
+LG-2026-062,Heritage Manufacturing,2026,Q3,Iowa,Healthcare,Marcus,Marketing Inbound,Middle Market,994,No,Developing,No,Yes,2,2,2,0,0,0,4,1,2,6,7,13,6.97,4.94,2.03,"$10,208,000 ",0,Lost
+LG-2026-063,Meadow Enterprises 163,2026,Q3,Iowa,Healthcare,Madison,Sales Prospecting,Middle Market,770,No,Established,Yes,No,2,1,0,2,0,0,6,0,1,5,7,12,5.42,5.14,0.28,"$8,818,000 ",1,Won
+LG-2026-064,Silver Health Services 164,2026,Q3,Iowa,Manufacturing,Colby,Broker / Agent Referral,Lower Market,57,No,Established,No,Yes,0,1,1,1,0,0,5,2,0,3,7,10,7.99,4.86,3.13,"$777,000 ",0,Lost
+LG-2026-065,Westfield Foods,2026,Q3,Iowa,Manufacturing,Sarah,Broker / Agent Referral,Lower Market,476,No,New,No,Yes,0,1,2,0,0,0,6,1,0,3,7,10,8.15,4.55,3.6,"$5,989,000 ",0,Lost
+LG-2026-066,Eastgate Manufacturing,2026,Q3,Iowa,Healthcare,Colby,Marketing Inbound,Middle Market,607,Yes,Developing,No,No,0,3,1,3,0,0,5,0,0,7,5,12,9.81,5.29,4.52,"$6,592,000 ",0,Lost
+LG-2026-067,Prairie AgriServices,2026,Q3,Iowa,Construction,Derek,Marketing Inbound,Middle Market,509,No,New,No,Yes,3,0,0,1,0,0,7,1,1,4,9,13,5.22,4.51,0.71,"$5,078,000 ",0,Lost
+LG-2026-068,Heritage Construction,2026,Q3,South Dakota,Agriculture,Addie,Executive Referral,Enterprise,4401,Yes,Developing,No,No,1,0,1,2,0,0,6,1,0,4,7,11,9.57,5.77,3.8,"$52,285,000 ",0,Lost
+LG-2026-069,River Manufacturing,2026,Q3,South Dakota,Healthcare,Derek,Executive Referral,Enterprise,2580,Yes,Developing,Yes,Yes,1,1,1,1,0,0,10,0,0,4,10,14,7.64,4.62,3.02,"$27,351,000 ",0,Lost
+LG-2026-070,Keystone Products,2026,Q3,South Dakota,Food & Beverage,Javier,Sales Prospecting,Lower Market,156,No,New,Yes,Yes,0,1,1,1,1,0,6,1,3,4,10,14,10.51,4.86,5.65,"$1,687,000 ",0,Lost
+LG-2026-071,Granite Group,2026,Q3,Iowa,Construction,Madison,Broker / Agent Referral,Enterprise,4451,Yes,Established,Yes,Yes,1,0,1,0,0,0,5,0,0,2,5,7,7.01,5.55,1.46,"$44,729,000 ",0,Lost
+LG-2026-072,Greenfield Equipment,2026,Q3,Iowa,Technology,Derek,Marketing Inbound,Middle Market,971,No,Developing,Yes,Yes,0,0,3,1,0,0,4,0,4,4,8,12,8.36,5.9,2.46,"$12,003,000 ",1,Won
+LG-2026-073,Frontier Systems,2026,Q3,Iowa,Professional Services,Sarah,Marketing Inbound,Middle Market,805,No,New,No,Yes,0,0,0,2,0,0,6,1,3,2,10,12,5.58,4,1.58,"$9,947,000 ",0,Lost
+LG-2026-074,Bridge Logistics,2026,Q3,South Dakota,Manufacturing,Colby,Sales Prospecting,Middle Market,665,No,Developing,No,No,0,0,0,0,0,0,3,0,0,0,3,3,9.38,5.14,4.24,"$7,227,000 ",0,Lost
+LG-2026-075,Clearwater Group,2026,Q3,Iowa,Manufacturing,Marcus,Broker / Agent Referral,Middle Market,848,No,Developing,No,Yes,0,0,0,1,0,0,4,1,0,1,5,6,8.08,6.09,1.99,"$8,422,000 ",0,Lost
+LG-2026-076,Greenfield Equipment 176,2026,Q3,Iowa,Technology,Marcus,Sales Prospecting,Enterprise,4981,Yes,Developing,No,Yes,1,0,1,0,2,0,4,1,0,4,5,9,8.5,5.24,3.26,"$37,457,000 ",0,Lost
+LG-2026-077,Silver Foods,2026,Q3,Iowa,Manufacturing,Addie,Marketing Inbound,Middle Market,789,No,New,No,No,0,1,1,0,0,0,6,0,2,2,8,10,5.55,4.33,1.22,"$10,283,000 ",0,Lost
+LG-2026-078,Frontier Health Services,2026,Q3,Iowa,Agriculture,Addie,Sales Prospecting,Middle Market,569,No,Developing,No,No,1,0,1,3,0,0,8,1,0,5,9,14,4.69,4.51,0.18,"$5,792,000 ",1,Won
+LG-2026-079,Frontier Equipment,2026,Q3,Iowa,Agriculture,Natalie,Marketing Inbound,Middle Market,1000,No,Developing,No,Yes,2,4,1,2,0,0,5,2,2,9,9,18,8.94,4.81,4.13,"$12,026,000 ",1,Won
+LG-2026-080,Oak AgriServices 180,2026,Q3,Iowa,Healthcare,Sarah,Executive Referral,Middle Market,775,No,Established,No,Yes,2,3,0,2,0,0,8,1,0,7,9,16,8.64,4.93,3.71,"$10,932,000 ",0,Lost
+LG-2026-081,Lakeside Health Services,2026,Q4,Iowa,Construction,Madison,Broker / Agent Referral,Middle Market,628,No,Established,Yes,Yes,0,2,2,2,0,0,4,1,2,6,7,13,6.98,5.13,1.85,"$8,507,000 ",0,Lost
+LG-2026-082,Frontier Partners,2026,Q4,Iowa,Agriculture,Sarah,Sales Prospecting,Middle Market,976,Yes,Developing,No,Yes,1,2,0,0,0,0,8,1,1,3,10,13,6.77,5.17,1.6,"$10,737,000 ",0,Lost
+LG-2026-083,Hawkeye Solutions,2026,Q4,Iowa,Transportation & Logistics,Javier,Executive Referral,Middle Market,899,No,Established,Yes,Yes,1,1,3,2,0,0,5,2,0,7,7,14,8.01,4.68,3.33,"$11,668,000 ",1,Won
+LG-2026-084,Stonebridge Solutions,2026,Q4,South Dakota,Transportation & Logistics,Natalie,Broker / Agent Referral,Lower Market,70,No,New,No,Yes,1,1,5,3,0,1,6,2,0,11,8,19,5.46,5.42,0.04,"$770,000 ",0,Lost
+LG-2026-085,Northstar Construction 185,2026,Q4,Iowa,Manufacturing,Colby,Marketing Inbound,Middle Market,504,No,New,No,Yes,2,1,0,0,0,1,6,1,1,4,8,12,8.15,5.05,3.1,"$6,220,000 ",1,Won
+LG-2026-086,Eastgate Industries,2026,Q4,Iowa,Construction,Natalie,Broker / Agent Referral,Middle Market,863,No,Established,Yes,Yes,1,2,1,0,0,0,4,0,1,4,5,9,8.85,5.05,3.8,"$8,436,000 ",0,Lost
+LG-2026-087,Central Group,2026,Q4,Iowa,Agriculture,Javier,Marketing Inbound,Enterprise,4606,Yes,Established,Yes,Yes,0,0,2,0,1,0,6,1,1,3,8,11,7.02,4.77,2.25,"$46,496,000 ",1,Won
+LG-2026-088,Great Plains Partners,2026,Q4,Iowa,Agriculture,Marcus,Executive Referral,Middle Market,682,No,Developing,No,Yes,0,0,3,0,0,0,4,0,1,3,5,8,8.15,5.02,3.13,"$7,321,000 ",0,Lost
+LG-2026-089,Midland Services,2026,Q4,Iowa,Technology,Javier,Sales Prospecting,Enterprise,2141,No,Developing,Yes,Yes,0,0,2,1,0,0,6,0,2,3,8,11,7.88,5.85,2.03,"$23,429,000 ",0,Lost
+LG-2026-090,Blue River Distribution 190,2026,Q4,Iowa,Manufacturing,Derek,Sales Prospecting,Enterprise,3388,No,Established,No,Yes,0,0,3,1,0,0,6,1,2,4,9,13,7.72,5.24,2.48,"$44,309,000 ",0,Lost
+LG-2026-091,Greenfield Partners,2026,Q4,Iowa,Financial Services,Marcus,Executive Referral,Middle Market,842,No,Established,Yes,Yes,1,2,1,1,0,0,5,0,3,5,8,13,5.74,4.36,1.38,"$8,687,000 ",0,Lost
+LG-2026-092,Heartland Logistics,2026,Q4,Iowa,Manufacturing,Sarah,Sales Prospecting,Lower Market,383,No,New,No,Yes,0,1,1,0,0,0,7,2,1,2,10,12,9.39,5.19,4.2,"$5,186,000 ",0,Lost
+LG-2026-093,Keystone Industries,2026,Q4,Iowa,Manufacturing,Derek,Sales Prospecting,Lower Market,135,No,New,No,Yes,0,0,2,1,0,2,9,2,0,5,11,16,10.31,4.93,5.38,"$1,351,000 ",0,Lost
+LG-2026-094,Frontier Manufacturing 194,2026,Q4,Iowa,Healthcare,Natalie,Sales Prospecting,Middle Market,852,No,New,No,Yes,1,0,1,2,0,0,8,0,1,4,9,13,7.31,4.39,2.92,"$8,191,000 ",0,Lost
+LG-2026-095,Prairie Supply,2026,Q4,Iowa,Construction,Marcus,Broker / Agent Referral,Enterprise,4668,No,Established,No,Yes,0,0,2,2,1,0,5,0,1,5,6,11,7.59,4.4,3.19,"$52,657,000 ",1,Won
+LG-2026-096,Meadow Logistics,2026,Q4,Iowa,Retail,Madison,Sales Prospecting,Middle Market,520,No,Established,Yes,No,0,0,1,1,0,1,6,2,0,3,8,11,6.96,5.45,1.51,"$5,376,000 ",0,Lost
+LG-2026-097,Bridge Construction,2026,Q4,South Dakota,Manufacturing,Colby,Marketing Inbound,Middle Market,639,No,Developing,No,No,1,0,0,0,0,0,5,2,0,1,7,8,10.12,4.68,5.44,"$6,303,000 ",0,Lost
+LG-2026-098,Silver Works,2026,Q4,South Dakota,Construction,Madison,Executive Referral,Middle Market,537,No,Developing,Yes,No,0,1,0,0,0,0,4,1,1,1,6,7,7.27,4.43,2.84,"$6,408,000 ",0,Lost
+LG-2026-099,Meadow Distribution,2026,Q4,South Dakota,Financial Services,Javier,Marketing Inbound,Middle Market,778,No,Developing,Yes,Yes,1,2,1,1,0,0,5,0,2,5,7,12,8.03,6.15,1.88,"$9,264,000 ",1,Won
+LG-2026-100,Greenfield Products,2026,Q4,Iowa,Construction,Natalie,Sales Prospecting,Lower Market,429,No,Established,No,Yes,1,1,2,2,0,0,7,0,0,6,7,13,6.29,5.01,1.28,"$5,852,000 ",0,Lost
